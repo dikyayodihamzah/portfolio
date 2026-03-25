@@ -1,18 +1,17 @@
-
+<div align="center">
 
 # Diky Afamby Yodihamzah
 
 ### Backend Lead · Software Engineer
 
-[Go](https://go.dev)
-[Node.js](https://nodejs.org)
-[Python](https://www.python.org)
-[Rust](https://www.rust-lang.org)
-[GitHub followers](https://github.com/dikyayodihamzah)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![GitHub followers](https://img.shields.io/github/followers/dikyayodihamzah?style=flat&logo=github&label=Follow)](https://github.com/dikyayodihamzah)
 
 > Building high-performance, distributed systems that scale.
 
-
+</div>
 
 ---
 
@@ -24,48 +23,47 @@ Beyond shipping production systems, I design and review technical challenge test
 
 - Based in **Indonesia**
 - Currently at **Synapsis** — building enterprise Superapps
-- Open-source author of [goasync](https://github.com/dikyayodihamzah) — a thread-safe async library for Go
 - Passionate about **clean architecture**, **event-driven systems**, and **developer tooling**
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-Go
-Rust
-TypeScript
-JavaScript
-Python
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
-Fiber
-Axum
-Next.js
-gRPC
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=flat&logo=go&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
 
-### Messaging & Streaming
+**Messaging & Streaming**
 
-Apache Kafka
-MQTT
-WebSocket
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
 
-### Databases
+**Databases**
 
-PostgreSQL
-MongoDB
-Redis
-InfluxDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
-### Infrastructure & DevOps
+**Infrastructure & DevOps**
 
-Docker
-HashiCorp Vault
-MinIO
-Firebase
-Protobuf
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 ---
 
