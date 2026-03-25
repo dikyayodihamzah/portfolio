@@ -1,8 +1,8 @@
 <div align="center">
 
-# Diky Afamby Yodihamzah
+# Diky Yodihamzah
 
-### Backend Lead · Software Engineer
+### Backend Engineer · Software Engineer
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Backend Lead** with deep expertise in distributed systems, microservices architecture, and high-throughput data pipelines. I specialize in Go, and I've led the architecture and delivery of enterprise-grade platforms — from real-time fleet monitoring across mining sites to AI-powered evaluation systems.
+I'm a **Backend Engineer Lead** with deep expertise in distributed systems, microservices architecture, and high-throughput data pipelines. I specialize in Go, and I've led the architecture and delivery of enterprise-grade platforms — from real-time fleet monitoring across mining sites to AI-powered evaluation systems.
 
 Beyond shipping production systems, I design and review technical challenge tests for Backend Engineers (Mid–Senior level), covering API design, system architecture, security, performance, and clean code practices.
 
