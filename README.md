@@ -1,23 +1,24 @@
-<div align="center">
+
 
 # Diky Afamby Yodihamzah
 
 ### Backend Lead · Software Engineer
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![GitHub followers](https://img.shields.io/github/followers/dikyayodihamzah?style=flat&logo=github&label=Follow)](https://github.com/dikyayodihamzah)
+[Go](https://go.dev)
+[Node.js](https://nodejs.org)
+[Python](https://www.python.org)
+[Rust](https://www.rust-lang.org)
+[GitHub followers](https://github.com/dikyayodihamzah)
 
 > Building high-performance, distributed systems that scale.
 
-</div>
+
 
 ---
 
 ## About Me
 
-I'm a **Backend Lead** with deep expertise in distributed systems, microservices architecture, and high-throughput data pipelines. I specialize in Go and Rust, and I've led the architecture and delivery of enterprise-grade platforms — from real-time fleet monitoring across mining sites to AI-powered evaluation systems.
+I'm a **Backend Lead** with deep expertise in distributed systems, microservices architecture, and high-throughput data pipelines. I specialize in Go, and I've led the architecture and delivery of enterprise-grade platforms — from real-time fleet monitoring across mining sites to AI-powered evaluation systems.
 
 Beyond shipping production systems, I design and review technical challenge tests for Backend Engineers (Mid–Senior level), covering API design, system architecture, security, performance, and clean code practices.
 
@@ -31,48 +32,52 @@ Beyond shipping production systems, I design and review technical challenge test
 ## Tech Stack
 
 ### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Go
+Rust
+TypeScript
+JavaScript
+Python
 
 ### Frameworks & Libraries
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+
+Fiber
+Axum
+Next.js
+gRPC
 
 ### Messaging & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+Apache Kafka
+MQTT
+WebSocket
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+PostgreSQL
+MongoDB
+Redis
+InfluxDB
 
 ### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+Docker
+HashiCorp Vault
+MinIO
+Firebase
+Protobuf
 
 ---
 
 ## Work Experience
 
-### Backend Lead — Synapsis *(2023 – Present)*
+### Backend Engineer Lead — Synapsis *(2023 – Present)*
 
 Leading backend architecture across multiple enterprise product lines. Responsible for system design decisions, code quality standards, cross-team technical alignment, and mentoring engineers across mid-to-senior levels.
 
 #### Products & Platforms Built
 
-<details>
-<summary><strong>Fleet Management System (FMS)</strong> — Mining & Construction Fleet Ops</summary>
+**Fleet Management System (FMS)** — Mining & Construction Fleet Ops
 
 A comprehensive microservices platform for real-time fleet monitoring across mining and construction sites. Serves Fleet Operations, Production, Equipment Maintenance, and Site Management teams.
 
@@ -80,10 +85,9 @@ A comprehensive microservices platform for real-time fleet monitoring across min
 - **Tech**: Go · Fiber · PostgreSQL · Redis · InfluxDB · Kafka · MQTT · gRPC · Firebase · HashiCorp Vault · MinIO · WebSocket · Docker
 - **Highlights**: Real-time GPS/IoT data ingestion via MQTT; time-series performance metrics via InfluxDB; event-driven notifications via Kafka; PDF report generation; multi-site, multi-tenant architecture
 
-</details>
 
-<details>
-<summary><strong>Employee Self-Service (ESS)</strong> — HR Platform</summary>
+
+**Employee Self-Service (ESS)** — HR Platform
 
 A full-featured HR platform exposing rich APIs for workforce management.
 
@@ -91,63 +95,70 @@ A full-featured HR platform exposing rich APIs for workforce management.
 - **Tech**: Go · Kafka · PostgreSQL · Redis · gRPC · Protobuf · Docker
 - **Highlights**: Refactored to a clean monorepo architecture; event-driven inter-service communication via Kafka; SSO integration
 
-</details>
 
-<details>
-<summary><strong>QHSE (Quality, Health, Safety & Environment)</strong></summary>
+
+**QHSE (Quality, Health, Safety & Environment)**
 
 Safety management platform for industrial and enterprise environments.
 
 - **Services**: Assessment Bank · HSE Assessment · Assessment Execution · Training Management · DB Migrations
 - **Tech**: Go · PostgreSQL · Redis · Kafka · Docker
 
-</details>
 
-<details>
-<summary><strong>CONNEX</strong> — IoT Connectivity Platform</summary>
+
+**CONNEX** — IoT Connectivity Platform
 
 A large-scale IoT and connectivity platform with event-driven architecture.
 
 - **20+ services**: Auth · OAuth · Permissions · Profiles · Projects · Groups · Nodes · Dashboard · Data (MongoDB + PostgreSQL) · Notifications · Field Service · Historical Data · Actuators
 - **Tech**: Go · Fiber · PostgreSQL · MongoDB · Kafka · Event-driven · Docker
 
-</details>
 
-<details>
-<summary><strong>SSO (Single Sign-On)</strong></summary>
+
+**SSO (Single Sign-On)**
 
 Centralized authentication and access control gateway for all Synapsis Superapps.
 
 - Handles user creation, role updates, app access permissions, and event-driven sync via Kafka consumers
 - **Tech**: Go · Kafka · PostgreSQL · Redis · JWT · gRPC
 
-</details>
 
-<details>
-<summary><strong>001M Superapps</strong></summary>
+
+**001M Superapps**
 
 Multi-module enterprise Superapps platform.
 
 - **Services**: Job Management · Safety Form · Shipment Tracking
 - **Tech**: Go · PostgreSQL · Kafka · Docker
 
-</details>
 
-<details>
-<summary><strong>NEARON</strong></summary>
 
-Internal product with monorepo architecture, environment vault, and database migration tooling.
+**NEARON** — Next-Generation IoT Connectivity Platform
 
-</details>
+The successor to CONNEX, rebuilt from the ground up with a significantly improved monorepo architecture and cleaner engineering foundations.
+
+- **15 services**: Auth · User · Project & Node Management · Monitoring · Notification · Scheduler · System Settings · Logs · MQTT Auth · Audio · FFmpeg · Tuya · License Management · Legacies
+- **Tech**: Go · Fiber · PostgreSQL · MongoDB · Redis · Kafka · MQTT · gRPC · Firebase · HashiCorp Vault · MinIO · Prometheus · Uber Zap · Docker
+- **Improved over CONNEX**: Structured shared `pkg` layer (cache, config, exception, grpc, helper, middleware, model, query, transaction, utils); circuit breaker (gobreaker); Prometheus metrics; structured logging with Uber Zap; Telegram bot notifications; Tuya smart device integration; MQTT auth service; comprehensive mock-based test suite
+
+**License Management System** — Licensing for CONNEX & NEARON
+
+Standalone service managing software licenses across the CONNEX and NEARON platforms.
+
+- Controls license issuance, validation, and lifecycle for platform deployments
+- **Tech**: Go · Fiber · MongoDB · Kafka · JWT · Docker
+
+
 
 #### Internal Libraries & Tooling
 
-| Library | Description | Tech |
-|---|---|---|
-| **goasync** | Thread-safe async task library for Go — supports Spawn, Await, Abort, TryJoin with timeout | Go |
-| **sdk-be** | Internal backend SDK — Kafka consumer/producer, gRPC client/server, JWT, HashiCorp Vault, env config | Go |
-| **rust-zenoh-boilerplate** | Production-grade Rust backend boilerplate with Zenoh pub/sub for vehicle sensor data | Rust · Axum · SeaORM · Zenoh · Protobuf |
-| **environment-vault** | Secrets management tooling integrated with HashiCorp Vault | Go |
+
+| Library                    | Description                                                                                          | Tech                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **sdk-be**                 | Internal backend SDK — Kafka consumer/producer, gRPC client/server, JWT, HashiCorp Vault, env config | Go                                      |
+| **rust-zenoh-boilerplate** | Production-grade Rust backend boilerplate with Zenoh pub/sub for vehicle sensor data                 | Rust · Axum · SeaORM · Zenoh · Protobuf |
+| **environment-vault**      | Secrets management tooling integrated with HashiCorp Vault                                           | Go                                      |
+
 
 #### Technical Leadership
 
@@ -238,18 +249,6 @@ Internal product with monorepo architecture, environment vault, and database mig
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikyayodihamzah&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/dikyayodihamzah)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikyayodihamzah&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/dikyayodihamzah)
-
-</div>
-
----
-
 ## Architecture Principles
 
 Things I care deeply about when building systems:
@@ -266,12 +265,11 @@ Things I care deeply about when building systems:
 ## Contact
 
 - **GitHub**: [github.com/dikyayodihamzah](https://github.com/dikyayodihamzah)
-- **Email**: diky.afamby@gmail.com
+- **Email**: [dikyayodihamzah@gmail.com](mailto:dikyayodihamzah@gmail.com)
 
 ---
 
-<div align="center">
+
 
 *"Build things that last. Document things that matter. Ship things that work."*
 
-</div>

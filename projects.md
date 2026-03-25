@@ -96,6 +96,52 @@ This event-driven design ensures SSO stays synchronized with other services with
 
 ---
 
+### NEARON — Next-Generation IoT Connectivity Platform
+
+**Context**: The successor to CONNEX, rebuilt from scratch with a significantly cleaner monorepo architecture and stronger engineering foundations.
+
+**What's improved over CONNEX**:
+- **Unified shared `pkg` layer** — shared cache, config, exception handling, gRPC utilities, helpers, middleware, models, query builders, transaction management, and utils — no more duplicated cross-cutting concerns across services
+- **Observability from day one** — Prometheus metrics + Uber Zap structured logging
+- **Resilience** — circuit breaker via `gobreaker` for external calls
+- **Better test coverage** — `go.uber.org/mock` for comprehensive mock-based unit testing
+- **Expanded integrations** — Tuya smart devices, Telegram bot notifications, MQTT auth service, audio/FFmpeg processing
+
+**Services** (15 total):
+
+| Service | Responsibility |
+|---|---|
+| `auth` | Authentication, JWT, multi-tenant access |
+| `user` | User management and profiles |
+| `projectnode` | Project and IoT node management |
+| `monitoring` | Real-time device monitoring |
+| `notification` | Multi-channel notifications (email, push, Telegram) |
+| `scheduler` | Cron-based task scheduling (robfig/cron) |
+| `system-setting` | Platform-wide configuration |
+| `logs` | Audit and system logging |
+| `mqtt-auth` | MQTT broker authentication service |
+| `license-management` | License validation and lifecycle (built-in) |
+| `audio` | Audio processing service |
+| `ffmpeg` | Media transcoding service |
+| `tuya` | Tuya IoT smart device integration |
+| `legacies` | Backward-compatible legacy API layer |
+
+**Tech**: Go · Fiber · PostgreSQL · MongoDB · Redis · Kafka · MQTT · gRPC · Firebase · HashiCorp Vault · MinIO · Prometheus · Uber Zap · Docker
+
+---
+
+### License Management System
+
+**Context**: Standalone service managing software licenses for both CONNEX and NEARON platforms.
+
+**Responsibilities**: License issuance, validation, expiry tracking, and lifecycle management for platform deployments.
+
+**Architecture**: Clean layered pattern — controller → service → repository — with MongoDB as the primary store and Kafka for license event publishing.
+
+**Tech**: Go · Fiber · MongoDB · Kafka · JWT · Docker
+
+---
+
 ## Open Source Libraries
 
 ### goasync — Thread-safe Async Library for Go
